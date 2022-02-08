@@ -377,7 +377,7 @@
             &quot;name&quot;: &quot;SecTion Testing&quot;,&#xd;
             &quot;parameters&quot;: [&#xd;
                 {&#xd;
-                    &quot;label&quot;: &quot;Testing automation&quot;,&#xd;
+                    &quot;label&quot;: &quot;Testing automation NOW DEMO&quot;,&#xd;
                     &quot;fixed&quot;: false,&#xd;
                     &quot;selected&quot;: true,&#xd;
                     &quot;type&quot;: &quot;Slider_Range&quot;&#xd;
@@ -386,10 +386,10 @@
         },&#xd;
         {&#xd;
             &quot;position&quot;: 8,&#xd;
-            &quot;name&quot;: &quot;SecTion Testing Automation Section 8&quot;,&#xd;
+            &quot;name&quot;: &quot;SecTion Testing Automation DEMO  Section 8&quot;,&#xd;
             &quot;parameters&quot;: [&#xd;
                 {&#xd;
-                    &quot;label&quot;: &quot;Testing automation&quot;,&#xd;
+                    &quot;label&quot;: &quot;Testing DEMO automation&quot;,&#xd;
                     &quot;fixed&quot;: false,&#xd;
                     &quot;selected&quot;: true,&#xd;
                     &quot;type&quot;: &quot;Slider_Range&quot;&#xd;
